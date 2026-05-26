@@ -19,3 +19,7 @@ This project predicts Tesla (TSLA) stock prices using Machine Learning technique
 
 ## Project Type
 Data Science and Machine Learning Project
+
+## Project Visualization
+
+![Stock Analysis](stock-price-prediction-visualization.png)
